@@ -1,0 +1,11 @@
+﻿date,annee,mois,region,marche,categorie,produit,unite,prix_fcfa,source,commentaire
+2026-01-25,2026,1,Centre,Marché NSAM,Utilisateur,Ail,kg,2500,Terrain,Bien
+2026-01-25,2026,1,Centre,Marché NSAM,Utilisateur,Ail,kg,2500,Terrain,Bien
+2026-04-28,2026,4,Centre,Marché de Biyem-Assi,Utilisateur,Cacao,kg,20000,Terrain,
+2026-04-28,2026,4,Est,Marché de Batouri,Utilisateur,Oignon séché,kg,1500,Terrain,
+2026-04-28,2026,4,Sud,Marché de Sangmélima,Utilisateur,Patate douce,kg,3500,Terrain,Bonne qualite
+2026-04-28,2026,4,Littoral,Marché New-Deïdo,Utilisateur,Farine de maïs,kg,230,Terrain,
+2026-04-28,2026,4,Extrême-Nord,Marché de Mokolo (EN),Boissons & Cacao,Café robusta,kg,15000,Terrain,
+2026-04-28,2026,4,Sud,Marché de Kribi,Boissons & Cacao,Thé,kg,50000,Terrain,
+2026-04-28,2026,4,Sud,Marché de Kribi,Boissons & Cacao,Thé,kg,50000,Terrain,
+2026-04-28,2026,4,Centre,Marché Artisanal de Tsinga,Boissons & Cacao,Thé,kg,4950,Terrain,bien
